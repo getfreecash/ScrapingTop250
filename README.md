@@ -28,7 +28,7 @@ The following instructions were tested on Office 2016 Professional Plus on Windo
 * Uncheck 'Use wildcards' and replace all instances of ( and )
 * Copy and paste the new list into Excel
 * Alt+F11 to enter VB editor
-* Under 'Insert', click 'Module', and paste Module1.vbs
+* Under 'Insert', click 'Module', and paste [ListHyperlinks](https://github.com/getfreecash/ScrapingTop250/blob/master/ListHyperlinks.bas)
 * Alt+Q to exit VB editor
 * Alt+F8 to open the macro menu
 * Click 'ListHyperlinks' and 'Run'
