@@ -36,3 +36,19 @@ The following instructions were tested on Office 2016 Professional Plus on Windo
 * Make it a numbered list
 * Remove everything numbered higher than 250
 * Send the list to ICheckMovies
+
+##Creating the 'no recency bias' version of the top 250
+* After obtaining Python output, copy and paste output into Word
+* Remove the Python commands at the top
+* In 'Find and Replace', check the box 'Use wildcards' under 'More>>'
+* Replace all instances of
+```
+\(https://*\)
+```
+* Uncheck 'Use wildcards' and replace all instances of [ and ]
+* Remove anything that was commented for search purposes
+* Copy and paste the new list into Excel
+* Select all of column A and click the little arrow that appears next to 'A'
+* Filter by 'does not contain [DELETE]'
+* Copy and paste this back into Word and make it a numbered list
+* Remove everything numbered higher than 250
