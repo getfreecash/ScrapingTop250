@@ -79,7 +79,7 @@
 [In Bruges](http://www.imdb.com/title/tt0780536/?ref_=nv_sr_1) (2008), Martin McDonagh
 [Good Will Hunting](http://www.imdb.com/title/tt0119217/?ref_=nv_sr_1) (1997), Gus Van Sant
 [Up](http://www.imdb.com/title/tt1049413/?ref_=nv_sr_1) (2009), Pete Docter, Bob Peterson
-[The Good, the Bad and the Ugly](http://www.imdb.com/title/tt0118715/?ref_=nv_sr_1) (1966), Sergio Leone
+[The Good, the Bad and the Ugly](https://www.imdb.com/title/tt0060196/) (1966), Sergio Leone
 [Birdman or (The Unexpected Virtue of Ignorance)](http://www.imdb.com/title/tt2562232/?ref_=nv_sr_1) (2014), Alejandro G. Iñárritu
 [Reservoir Dogs](http://www.imdb.com/title/tt0105236/?ref_=nv_sr_1) (1992), Quentin Tarantino
 [Psycho](http://www.imdb.com/title/tt0054215/?ref_=nv_sr_2) (1960), Alfred Hitchcock
@@ -212,7 +212,7 @@
 [The Great Dictator](https://www.imdb.com/title/tt0032553/?ref_=nv_sr_1) (1940), Charles Chaplin
 [Blazing Saddles](https://www.imdb.com/title/tt0071230/?ref_=nv_sr_1) (1974), Mel Brooks
 [Gattaca](https://www.imdb.com/title/tt0119177/) (1997), Andrew Nichol
-[Mission: Impossible - Fallout](https://www.imdb.com/title/tt1631867/) (2018), Christopher McQuarrie
+[Mission: Impossible - Fallout](https://www.imdb.com/title/tt4912910/) (2018), Christopher McQuarrie
 [The Passion of Joan of Arc](https://www.imdb.com/title/tt0019254/) (1928), Carl Theodor Dreyer  
 *La Passion de Jeanne d'Arc*
 [The Revenant](https://www.imdb.com/title/tt1663202/?ref_=nv_sr_5) (2015), Alejandro G. Iñárritu
@@ -230,7 +230,6 @@
 [Solaris] (https://www.imdb.com/title/tt0069293/), (1971) Andrei Tarkovsky
 [City Lights] (https://www.imdb.com/title/tt0021749) (1931), Charles Chaplin
 [The Thin Red Line] (https://www.imdb.com/title/tt0120863), (1998) Terrence Malick
-[The Godfather: Part II](https://www.imdb.com/title/tt0071562/?ref_=tt_rec_tt) (1974), Francis Ford Coppola
 [American History X](https://www.imdb.com/title/tt0120586/?ref_=ttls_li_tt) (1998), Tony Kaye
 [The LEGO Movie](https://www.imdb.com/title/tt1490017/) (2014), Phil Lord, Christopher Miller
 [E.T. the Extra-Terrestrial] (https://www.imdb.com/title/tt0083866)  (1982)  Steven Spielberg
@@ -249,8 +248,6 @@
 [The Fifth Element](https://www.imdb.com/title/tt0119116/) (1997), Luc Besson
 [Heat](https://www.imdb.com/title/tt0113277/) (1995), Michael Mann
 [How to Train Your Dragon](https://www.imdb.com/title/tt0892769/) (2010), Dean DeBlois, Chris Sanders
-[Raiders of the Lost Ark](https://www.imdb.com/title/tt0082971/) (1981), Steven Spielberg
-[Eternal Sunshine of the Spotless Mind](https://m.imdb.com/title/tt0338013/) (2004), Michel Gondry
 [Almost Famous] (https://www.imdb.com/title/tt0181875/?ref_=nv_sr_1) (2000), Cameron Crowe
 [Come and See] (https://www.imdb.com/title/tt0091251/), (1985) Elem Klimov  
 *Idi i smotri* 
@@ -1214,4 +1211,4 @@ Cloud Atlas (2012), Lana & Lily Wackowski and Tom Tykwer
 [As It Is In Heaven](https://www.imdb.com/title/tt0382330/?ref_=nv_sr_1)(2004), Kay Pollak
 [deleted]
 [Gangs of Wasseypur](https://www.imdb.com/title/tt1954470/) (2012), Anurag Kashyap
-[IMDB TOP250 (NO001-NO250) MOVIES COLLECTION BLU-RAY](http://onkyo4k.com/threads/2017-imdb-top250-no001-no250-movies-collection-blu-ray.143636/) 
+[IMDB TOP250 (NO001-NO250) MOVIES COLLECTION BLU-RAY](http://onkyo4k.com/threads/2017-imdb-top250-no001-no250-movies-collection-blu-ray.143636/)
